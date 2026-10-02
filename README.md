@@ -46,6 +46,6 @@ Tamil · English
 
 <div align="center">
 
-💼 Open to new service engineer and IT support roles. See my **[portfolio](https://meganathan99.github.io)** or send me an email.
+💼 Open to new service engineer and IT support roles. See my **[portfolio](https://github.com/Meganathan99/Meganathan99.github.io)** or send me an email.
 
 </div>
